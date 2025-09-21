@@ -1,7 +1,7 @@
 # Test Project
 
 ## Description
-This is a simple test project to demonstrate a README file structure.
+This is a simple test project to test Conda environments and Githug usage.
 
 ## Installation
 To install the project, follow these steps:
