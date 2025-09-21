@@ -1,7 +1,7 @@
 # Test Project
 
 ## Description
-This is a simple test project to test Conda environments and Githug usage.
+This is a simple test project to test Conda environments and Github usage.
 
 ## Installation
 To install the project, follow these steps:
