@@ -1,7 +1,7 @@
 # Test Project
 
 ## Description
-This is a simple test project to test Conda environments and Github usage.
+This is a simple test project to test Conda environments and Github usage. Currently, the pre-created environment may be recreated with the following instructions.
 
 ## Installation
 To install the project, follow these steps:
